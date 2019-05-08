@@ -11,6 +11,7 @@
     <modules>
         <module>spring_security_auth2_dependies</module>
         <module>spring_security_oauth2</module>
+        <module>spring-security-oauth2-resource</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

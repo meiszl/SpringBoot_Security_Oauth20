@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>spring_security_oauth2</artifactId>
+    <artifactId>spring-security-oauth2-resource</artifactId>
 
     <dependencies>
         <!-- Spring Boot -->
@@ -65,7 +65,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>com.meiszl.oauth2.oauth2Application</mainClass>
+                    <mainClass>com.meiszl.Oauth2resources.Oauth2ResourcesApplication</mainClass>
                 </configuration>
             </plugin>
         </plugins>
